@@ -16,6 +16,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <br>
+<div align="center">
+  <h4>Link para visualizar o projeto online: https://explorerlab-creditcard.vercel.app/ </h4> 
+</div>
+<br>
 
 <p align="center">
   <img alt="rocketpay" src=".github/project.png" width="100%">
