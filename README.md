@@ -4,14 +4,14 @@
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
-<h4>Link para visualizar o projeto online: https://explorerlab-creditcard.vercel.app/ </h4
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+
+<h4>Link para visualizar o projeto online: https://explorerlab-creditcard.vercel.app/ </h4>
 
 
 <p align="center">
