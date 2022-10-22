@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Explorer Lab / RocketSeat </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -10,8 +10,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-
-![replay1 (1)](https://user-images.githubusercontent.com/40027096/197356884-2fb27c43-97a4-4c39-ab46-c1e35bf31b52.gif)
 
 
 
@@ -48,5 +46,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
