@@ -11,6 +11,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#memo-licença">Licença</a>
 </p>
 
+![replay1 (1)](https://user-images.githubusercontent.com/40027096/197356884-2fb27c43-97a4-4c39-ab46-c1e35bf31b52.gif)
+
+
+
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
