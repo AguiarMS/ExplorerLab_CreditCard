@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Explorer Lab / RocketSeat </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -25,6 +25,13 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
+  ![1](https://user-images.githubusercontent.com/40027096/197357185-b2d88620-c8a8-46a7-b466-1aedd3959896.png)
+
+  ![2](https://user-images.githubusercontent.com/40027096/197357362-b4ea195b-d926-43d9-973e-e9b15027484a.png)
+
+  ![3](https://user-images.githubusercontent.com/40027096/197357368-84a5d9a3-f017-46e2-a330-37f1a456eef6.png)
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -48,5 +55,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
